@@ -1,0 +1,15 @@
+.edit {
+    background-color: darkcyan;
+}
+ 
+.delete {
+    background-color:darksalmon;
+}
+ 
+.save {
+    color:cornflowerblue;
+}
+ 
+.cancel {
+    color:darksalmon;
+}
